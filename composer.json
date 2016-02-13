@@ -6,12 +6,8 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Tobias Munk",
-            "email": "tobias@diemeisterei.de"
-        },
-        {
-            "name": "Evgeniy Tkachenko",
-            "email": "et.coder@gmail.com"
+            "name": "Pavel Tiumkin",
+            "email": "ptiuma@mail.ru"
         }
     ],
     "require": {
@@ -24,11 +20,6 @@
     "autoload": {
         "psr-4": {
             "ptiuma\\": ""
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
         }
     }
 }
